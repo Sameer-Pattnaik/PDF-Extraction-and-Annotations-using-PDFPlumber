@@ -223,3 +223,6 @@ The resulting JSON file will contain structured data like this:
 ## Conclusion
 
 This script provides a complete workflow for detecting and extracting key elements from a PDF, including word font sizes, dimensions, tables, images, and annotations, and saving the results in a structured JSON file. The output JSON can be easily processed for further analysis, while the annotated PDF provides a visual representation of the extracted elements.
+
+## Learn More
+GitHub Repository:https://github.com/jsvine/pdfplumber.git
