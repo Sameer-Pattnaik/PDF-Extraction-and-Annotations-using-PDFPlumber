@@ -1,4 +1,4 @@
-# PDF-Extraction-and-Annotations-using-PDFPlumber
+
 # PDF Detection and Annotations using `pdfplumber`
 
 This documentation explains how to use `pdfplumber` to detect and extract key elements from a PDF file, annotate the PDF with relevant data, and save the extracted information (including word dimensions, font size, tables, images, and more) in a structured JSON file.
